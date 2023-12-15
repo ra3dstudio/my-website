@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عنوان الموقع</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header, footer {
+            background-color: #f2f2f2;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>عنوان رئيسي</h1>
+        <p>شعار الموقع أو وصف قصير</p>
+    </header>
+
+    <nav>
+        <!-- قائمة التنقل هنا -->
+    </nav>
+
+    <main>
+        <h2>عنوان فرعي</h2>
+        <p>نص المحتوى الرئيسي هنا.</p>
+    </main>
+
+    <footer>
+        <p>حقوق الطبع والنشر © 2023</p>
+    </footer>
+
+</body>
+</html>
